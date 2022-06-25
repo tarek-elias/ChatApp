@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChatApp.iml" filepath="$PROJECT_DIR$/.idea/modules/ChatApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChatApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChatApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChatApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChatApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChatApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChatApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChatApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChatApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
